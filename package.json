@@ -1,0 +1,19 @@
+{
+  "name": "tyson",
+  "version": "0.0.0",
+  "description": "Placeholder Package - Coming Soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergiolepore/tyson.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiolepore/tyson/issues"
+  },
+  "homepage": "https://github.com/sergiolepore/tyson"
+}
