@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-var cli = require('plank')();
+var cli = require('tyson')();
 
 cli.run();
