@@ -1,0 +1,24 @@
+---
+language: node_js
+
+node_js:
+  - 0.10
+  - 0.11
+  # - iojs-v1 oops! the iojs support will be rolling on feb. 3, 2015!
+
+before_install:
+  - npm install -g gulp
+
+install:
+  - npm install
+
+script:
+  - npm test
+
+notifications:
+  webhooks:
+    urls:
+      - https://webhooks.gitter.im/e/16f28c91c028676fc3bf
+    on_success: always  # options: [always|never|change] default: always
+    on_failure: always  # options: [always|never|change] default: always
+    on_start: false     # default: false
