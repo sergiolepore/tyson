@@ -10,7 +10,7 @@
     "node": ">= 0.10.26"
   },
   "dependencies": {
-    "6to5": "^3.3.4",
+    "6to5": "^3.3.12",
     "cation": "^2.1.2"
   },
   "devDependencies": {
