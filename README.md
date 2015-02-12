@@ -1,5 +1,8 @@
 ## Tyson
 
+#### Work In Progress
+
+<!--
 An awesome `CLI / REPL` mini framework for [Node.js](http://nodejs.org)/[io.js](https://iojs.org/)
 
 [![NPM Version][npm-image]][npm-url]
@@ -16,7 +19,7 @@ An awesome `CLI / REPL` mini framework for [Node.js](http://nodejs.org)/[io.js](
 
 bla bla
 
-
+-->
 
 
 
